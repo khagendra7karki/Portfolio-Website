@@ -21,11 +21,11 @@ body {
 }
 
 links {
+  display: block;
   position: absolute;
-  left: 0;
   bottom: 0;
-  margin-left: 50%;
-  transform: translate(-50%, 0);
+  left: 0;
+  right: 0;
 }
 links a img {
   background: grey;
@@ -42,9 +42,12 @@ links a:hover img.twitter {
 links a:hover img.github {
   background: white;
 }
+links a:hover img.instagram {
+  background-image: linear-gradient(rgb(224, 155, 61), rgb(112, 36, 196));
+}
 
 @media (min-width: 576px) {
-  img.facebook, img.twitter, img.github {
+  img.facebook, img.twitter, img.github, img.instagram {
     width: 5vw;
     height: 5vw;
   }
