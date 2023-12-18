@@ -5,4 +5,4 @@ Visit the [Site](https://khagendrak.com.np/).
 
 ## TODO
 
-complete all the website
+complete the website
