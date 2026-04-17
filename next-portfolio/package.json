@@ -1,0 +1,42 @@
+{
+  "name": "dev-portfolio-2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "postbuild": "next-sitemap"
+  },
+  "dependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.31",
+    "@types/react-dom": "18.0.11",
+    "animejs": "^3.2.1",
+    "caniuse-lite": "^1.0.30001642",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "gray-matter": "^4.0.3",
+    "next": "13.2.4",
+    "next-sitemap": "^4.0.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-headroom": "^3.2.1",
+    "react-markdown": "^8.0.6",
+    "react-transition-group": "^4.4.5",
+    "scrollreveal": "^4.0.9",
+    "sharp": "^0.32.1",
+    "styled-components": "^5.3.9",
+    "typescript": "5.0.3"
+  },
+  "devDependencies": {
+    "@types/animejs": "^3.1.7",
+    "@types/react-headroom": "^3.2.0",
+    "@types/react-transition-group": "^4.4.5",
+    "@types/scrollreveal": "^0.0.8",
+    "@types/styled-components": "^5.1.26",
+    "globby": "^13.1.4",
+    "prettier": "^2.8.8"
+  }
+}
