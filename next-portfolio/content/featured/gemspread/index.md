@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Gemspread'
+title: 'Dummy Project'
 cover: '/images/featured/gemspread.png'
 github: ''
-external: 'https://publishing.gemspread.com/'
+external: 'https://example.com'
 tech:
   - Typescript
   - React
@@ -12,4 +12,4 @@ tech:
   - GraphQL
 ---
 
-A publishing platform that allows the admin to create and publish their content.
+A placeholder for future projects to showcase
